@@ -11,9 +11,7 @@ export default function Navbar() {
       <Link
         className="hover:text-[#081453] rounded transition duration-300 ease-in-out"
         href="/blogs/blog35"
-      >
-        <p className="text-2xl font-bold text-grey-800">Recente Blog</p>
-      </Link>
+      ></Link>
     </nav>
   );
 }
