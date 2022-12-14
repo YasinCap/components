@@ -6,6 +6,7 @@
   cursor: pointer;
   display: inline-block;
   line-height: 1;
+  background-color: #1ea7fd;
 }
 .gr-button--primary {
   color: white;
