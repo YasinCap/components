@@ -13,7 +13,7 @@ export default function Navbar() {
         className="hover:text-[#081453] rounded transition duration-300 ease-in-out"
         href="/"
       >
-        <p className="test">hooooi{add(2, 3)}</p>
+        <p className="test"></p>
         <p
           data-testid="navbarTitle"
           className="text-2xl font-bold text-grey-800 hover:text-[#081453]"
